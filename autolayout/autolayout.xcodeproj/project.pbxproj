@@ -1,0 +1,430 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A3ACDEE01AEE11A100E9BD8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3ACDEDF1AEE11A100E9BD8F /* AppDelegate.swift */; };
+		A3ACDEE21AEE11A100E9BD8F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3ACDEE11AEE11A100E9BD8F /* ViewController.swift */; };
+		A3ACDEE51AEE11A100E9BD8F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3ACDEE31AEE11A100E9BD8F /* Main.storyboard */; };
+		A3ACDEE71AEE11A100E9BD8F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3ACDEE61AEE11A100E9BD8F /* Images.xcassets */; };
+		A3ACDEEA1AEE11A100E9BD8F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3ACDEE81AEE11A100E9BD8F /* LaunchScreen.xib */; };
+		A3ACDEF61AEE11A100E9BD8F /* autolayoutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3ACDEF51AEE11A100E9BD8F /* autolayoutTests.swift */; };
+		A3ACDF011AEE2EBB00E9BD8F /* retail-fifth-avenue-desktop.png in Resources */ = {isa = PBXBuildFile; fileRef = A3ACDEFF1AEE2EBB00E9BD8F /* retail-fifth-avenue-desktop.png */; };
+		A3ACDF021AEE2EBB00E9BD8F /* retail-santa-monica-desktop.png in Resources */ = {isa = PBXBuildFile; fileRef = A3ACDF001AEE2EBB00E9BD8F /* retail-santa-monica-desktop.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A3ACDEF01AEE11A100E9BD8F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A3ACDED21AEE11A100E9BD8F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A3ACDED91AEE11A100E9BD8F;
+			remoteInfo = autolayout;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A3ACDEDA1AEE11A100E9BD8F /* autolayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = autolayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3ACDEDE1AEE11A100E9BD8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3ACDEDF1AEE11A100E9BD8F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A3ACDEE11AEE11A100E9BD8F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A3ACDEE41AEE11A100E9BD8F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A3ACDEE61AEE11A100E9BD8F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A3ACDEE91AEE11A100E9BD8F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		A3ACDEEF1AEE11A100E9BD8F /* autolayoutTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = autolayoutTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3ACDEF41AEE11A100E9BD8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3ACDEF51AEE11A100E9BD8F /* autolayoutTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = autolayoutTests.swift; sourceTree = "<group>"; };
+		A3ACDEFF1AEE2EBB00E9BD8F /* retail-fifth-avenue-desktop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "retail-fifth-avenue-desktop.png"; sourceTree = "<group>"; };
+		A3ACDF001AEE2EBB00E9BD8F /* retail-santa-monica-desktop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "retail-santa-monica-desktop.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A3ACDED71AEE11A100E9BD8F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3ACDEEC1AEE11A100E9BD8F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A3ACDED11AEE11A100E9BD8F = {
+			isa = PBXGroup;
+			children = (
+				A3ACDEFF1AEE2EBB00E9BD8F /* retail-fifth-avenue-desktop.png */,
+				A3ACDF001AEE2EBB00E9BD8F /* retail-santa-monica-desktop.png */,
+				A3ACDEDC1AEE11A100E9BD8F /* autolayout */,
+				A3ACDEF21AEE11A100E9BD8F /* autolayoutTests */,
+				A3ACDEDB1AEE11A100E9BD8F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A3ACDEDB1AEE11A100E9BD8F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A3ACDEDA1AEE11A100E9BD8F /* autolayout.app */,
+				A3ACDEEF1AEE11A100E9BD8F /* autolayoutTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A3ACDEDC1AEE11A100E9BD8F /* autolayout */ = {
+			isa = PBXGroup;
+			children = (
+				A3ACDEDF1AEE11A100E9BD8F /* AppDelegate.swift */,
+				A3ACDEE11AEE11A100E9BD8F /* ViewController.swift */,
+				A3ACDEE31AEE11A100E9BD8F /* Main.storyboard */,
+				A3ACDEE61AEE11A100E9BD8F /* Images.xcassets */,
+				A3ACDEE81AEE11A100E9BD8F /* LaunchScreen.xib */,
+				A3ACDEDD1AEE11A100E9BD8F /* Supporting Files */,
+			);
+			path = autolayout;
+			sourceTree = "<group>";
+		};
+		A3ACDEDD1AEE11A100E9BD8F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A3ACDEDE1AEE11A100E9BD8F /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A3ACDEF21AEE11A100E9BD8F /* autolayoutTests */ = {
+			isa = PBXGroup;
+			children = (
+				A3ACDEF51AEE11A100E9BD8F /* autolayoutTests.swift */,
+				A3ACDEF31AEE11A100E9BD8F /* Supporting Files */,
+			);
+			path = autolayoutTests;
+			sourceTree = "<group>";
+		};
+		A3ACDEF31AEE11A100E9BD8F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A3ACDEF41AEE11A100E9BD8F /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A3ACDED91AEE11A100E9BD8F /* autolayout */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3ACDEF91AEE11A100E9BD8F /* Build configuration list for PBXNativeTarget "autolayout" */;
+			buildPhases = (
+				A3ACDED61AEE11A100E9BD8F /* Sources */,
+				A3ACDED71AEE11A100E9BD8F /* Frameworks */,
+				A3ACDED81AEE11A100E9BD8F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = autolayout;
+			productName = autolayout;
+			productReference = A3ACDEDA1AEE11A100E9BD8F /* autolayout.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A3ACDEEE1AEE11A100E9BD8F /* autolayoutTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3ACDEFC1AEE11A100E9BD8F /* Build configuration list for PBXNativeTarget "autolayoutTests" */;
+			buildPhases = (
+				A3ACDEEB1AEE11A100E9BD8F /* Sources */,
+				A3ACDEEC1AEE11A100E9BD8F /* Frameworks */,
+				A3ACDEED1AEE11A100E9BD8F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A3ACDEF11AEE11A100E9BD8F /* PBXTargetDependency */,
+			);
+			name = autolayoutTests;
+			productName = autolayoutTests;
+			productReference = A3ACDEEF1AEE11A100E9BD8F /* autolayoutTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A3ACDED21AEE11A100E9BD8F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = macpc;
+				TargetAttributes = {
+					A3ACDED91AEE11A100E9BD8F = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					A3ACDEEE1AEE11A100E9BD8F = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = A3ACDED91AEE11A100E9BD8F;
+					};
+				};
+			};
+			buildConfigurationList = A3ACDED51AEE11A100E9BD8F /* Build configuration list for PBXProject "autolayout" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A3ACDED11AEE11A100E9BD8F;
+			productRefGroup = A3ACDEDB1AEE11A100E9BD8F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A3ACDED91AEE11A100E9BD8F /* autolayout */,
+				A3ACDEEE1AEE11A100E9BD8F /* autolayoutTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A3ACDED81AEE11A100E9BD8F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3ACDF021AEE2EBB00E9BD8F /* retail-santa-monica-desktop.png in Resources */,
+				A3ACDEE51AEE11A100E9BD8F /* Main.storyboard in Resources */,
+				A3ACDF011AEE2EBB00E9BD8F /* retail-fifth-avenue-desktop.png in Resources */,
+				A3ACDEEA1AEE11A100E9BD8F /* LaunchScreen.xib in Resources */,
+				A3ACDEE71AEE11A100E9BD8F /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3ACDEED1AEE11A100E9BD8F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A3ACDED61AEE11A100E9BD8F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3ACDEE21AEE11A100E9BD8F /* ViewController.swift in Sources */,
+				A3ACDEE01AEE11A100E9BD8F /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3ACDEEB1AEE11A100E9BD8F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3ACDEF61AEE11A100E9BD8F /* autolayoutTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A3ACDEF11AEE11A100E9BD8F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A3ACDED91AEE11A100E9BD8F /* autolayout */;
+			targetProxy = A3ACDEF01AEE11A100E9BD8F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		A3ACDEE31AEE11A100E9BD8F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A3ACDEE41AEE11A100E9BD8F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A3ACDEE81AEE11A100E9BD8F /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A3ACDEE91AEE11A100E9BD8F /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A3ACDEF71AEE11A100E9BD8F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A3ACDEF81AEE11A100E9BD8F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A3ACDEFA1AEE11A100E9BD8F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = autolayout/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3ACDEFB1AEE11A100E9BD8F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = autolayout/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A3ACDEFD1AEE11A100E9BD8F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = autolayoutTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/autolayout.app/autolayout";
+			};
+			name = Debug;
+		};
+		A3ACDEFE1AEE11A100E9BD8F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = autolayoutTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/autolayout.app/autolayout";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A3ACDED51AEE11A100E9BD8F /* Build configuration list for PBXProject "autolayout" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3ACDEF71AEE11A100E9BD8F /* Debug */,
+				A3ACDEF81AEE11A100E9BD8F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3ACDEF91AEE11A100E9BD8F /* Build configuration list for PBXNativeTarget "autolayout" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3ACDEFA1AEE11A100E9BD8F /* Debug */,
+				A3ACDEFB1AEE11A100E9BD8F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3ACDEFC1AEE11A100E9BD8F /* Build configuration list for PBXNativeTarget "autolayoutTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3ACDEFD1AEE11A100E9BD8F /* Debug */,
+				A3ACDEFE1AEE11A100E9BD8F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A3ACDED21AEE11A100E9BD8F /* Project object */;
+}
